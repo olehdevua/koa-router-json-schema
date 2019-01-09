@@ -1,0 +1,1 @@
+## JSON schema validator for `koa-router`
