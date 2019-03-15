@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --out-dir lib --ignore **/*.test.js --source-maps"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["koa", "router", "json", "schema"],
+  "author": "Oleg Tsyba <oleg.tsyba.ua@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/olegmedoed/koa-router-json-schema",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
